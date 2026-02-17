@@ -4,9 +4,8 @@
 
 <p align="center"> 
   <p align="center"><img src=
-"https://github.com/user-attachments/assets/e1a74ab7-c6b5-4a41-b663-fb6679e2d9a3"
+"https://github.com/user-attachments/assets/04a8c7de-030b-4b3b-8ae9-77771eea42a5"
 <br>
-
 
 
 <p align="center"> 
@@ -17,7 +16,7 @@
   <p align="center">
 <a 
 
-`art by @katsucurry on pin`
+`art by @wiitchingh0ur on twt`
 
 <br>
 
